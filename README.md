@@ -1,3 +1,3 @@
-# NuovoRepo
+# Hibernate
 
 Hibernate Repositories
