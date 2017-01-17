@@ -1,0 +1,2 @@
+# NuovoRepo
+# Hibernate Repositories
